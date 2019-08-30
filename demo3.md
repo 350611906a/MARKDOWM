@@ -22,7 +22,7 @@ ___
 
 ## GFM demo
 - [] task1  
-- [x] task2  
+- [x] task2
 
 ## 表情符号  
 参考资料：github.com/guodongxiaren/README/emoji.md  
