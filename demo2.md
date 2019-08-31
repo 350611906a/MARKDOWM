@@ -4,7 +4,7 @@
 
 ### 内嵌式链接  
 - 外部链接  
-[百度](www.baidu.com)  
+[百度](https://www.baidu.com)  
 
 - 内部链接  
 [demo1](demo1.md)  
@@ -52,7 +52,7 @@
 ```
 
 ## 链接位置汇总  
-[baidu]:www.baidu.com  
+[baidu]:https://www.baidu.com  
 [demo1]:demo1.md  
 [代码块]:demo2.md#代码块demo
 
